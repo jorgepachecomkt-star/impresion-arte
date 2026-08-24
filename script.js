@@ -53,7 +53,7 @@
                     const img = document.createElement("img");
 
                     img.src =
-                        "./images/" + encodeURIComponent(nombre);
+    "./" + encodeURIComponent(nombre);
 
                     img.alt =
                         "Trabajo personalizado Impresion-Arte " +
